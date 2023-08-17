@@ -1,1 +1,4 @@
 # FreeRTOS-test
+
+# Board
+STM32G474 (NUCLEO-G474RE)
