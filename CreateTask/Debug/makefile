@@ -11,6 +11,7 @@ RM := rm -rf
 -include sources.mk
 -include ThirdParty/SEGGER/SEGGER/Syscalls/subdir.mk
 -include ThirdParty/SEGGER/SEGGER/subdir.mk
+-include ThirdParty/SEGGER/Rec/subdir.mk
 -include ThirdParty/SEGGER/OS/subdir.mk
 -include ThirdParty/SEGGER/Config/subdir.mk
 -include ThirdParty/FreeRTOS/portable/MemMang/subdir.mk

@@ -31,6 +31,7 @@
 "./ThirdParty/FreeRTOS/portable/MemMang/heap_4.o"
 "./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o"
 "./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o"
+"./ThirdParty/SEGGER/Rec/segger_uart.o"
 "./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o"
 "./ThirdParty/SEGGER/SEGGER/SEGGER_RTT_ASM_ARMv7M.o"
 "./ThirdParty/SEGGER/SEGGER/SEGGER_RTT_printf.o"

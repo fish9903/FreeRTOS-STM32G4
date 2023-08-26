@@ -1,0 +1,5 @@
+../ThirdParty/FreeRTOS/list.c:48:6:vListInitialise	1
+../ThirdParty/FreeRTOS/list.c:73:6:vListInitialiseItem	1
+../ThirdParty/FreeRTOS/list.c:85:6:vListInsertEnd	1
+../ThirdParty/FreeRTOS/list.c:115:6:vListInsert	3
+../ThirdParty/FreeRTOS/list.c:183:13:uxListRemove	2

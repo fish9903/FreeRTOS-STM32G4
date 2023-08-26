@@ -53,10 +53,9 @@
 /* Private function prototypes -----------------------------------------------*/
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
+/* USER CODE BEGIN PFP */
 static void task1_handler(void* parameters);
 static void task2_handler(void* parameters);
-/* USER CODE BEGIN PFP */
-
 /* USER CODE END PFP */
 
 /* Private user code ---------------------------------------------------------*/
@@ -100,10 +99,10 @@ int main(void)
   /* USER CODE BEGIN 2 */
 
   // Enable the cycle counter
-  //DWT_CTRL |= ( 1 << 0 );
+  DWT_CTRL |= ( 1 << 0 );
 
-  //SEGGER_SYSVIEW_Conf();
-  //SEGGER_SYSVIEW_Start();
+  SEGGER_SYSVIEW_Conf();
+  SEGGER_SYSVIEW_Start();
 
   status = xTaskCreate(task1_handler, "Task-1", 200, "Hello, world from Task-1", 2, &task1_handle);
 
