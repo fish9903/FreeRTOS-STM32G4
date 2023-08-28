@@ -3,6 +3,7 @@
   <section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
     <language id="org.eclipse.cdt.core.assembly" name="s,S">
       <includepath workspace_path="true">/${ProjName}/ThirdParty/SEGGER/Config</includepath>
+      <includepath workspace_path="true">/${ProjName}/ThirdParty/SEGGER/SEGGER</includepath>
     </language>
     <language id="org.eclipse.cdt.core.gcc" name="C Source File">
       <includepath>Core/Inc</includepath>
