@@ -250,9 +250,9 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x112 ./Core/Src/stm32g4xx_hal_msp.o
  .debug_macro   0x0000000000000000       0x46 ./Core/Src/stm32g4xx_hal_msp.o
  .debug_macro   0x0000000000000000       0x64 ./Core/Src/stm32g4xx_hal_msp.o
- .debug_macro   0x0000000000000000       0x16 ./Core/Src/stm32g4xx_hal_msp.o
+ .debug_macro   0x0000000000000000       0x10 ./Core/Src/stm32g4xx_hal_msp.o
  .debug_macro   0x0000000000000000       0x49 ./Core/Src/stm32g4xx_hal_msp.o
- .debug_macro   0x0000000000000000       0xbc ./Core/Src/stm32g4xx_hal_msp.o
+ .debug_macro   0x0000000000000000       0xc3 ./Core/Src/stm32g4xx_hal_msp.o
  .debug_macro   0x0000000000000000      0x204 ./Core/Src/stm32g4xx_hal_msp.o
  .debug_macro   0x0000000000000000      0x450 ./Core/Src/stm32g4xx_hal_msp.o
  .debug_macro   0x0000000000000000      0x15a ./Core/Src/stm32g4xx_hal_msp.o
@@ -2665,9 +2665,9 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x58 ./ThirdParty/FreeRTOS/croutine.o
  .debug_macro   0x0000000000000000       0x46 ./ThirdParty/FreeRTOS/croutine.o
  .debug_macro   0x0000000000000000       0x64 ./ThirdParty/FreeRTOS/croutine.o
- .debug_macro   0x0000000000000000       0x16 ./ThirdParty/FreeRTOS/croutine.o
+ .debug_macro   0x0000000000000000       0x10 ./ThirdParty/FreeRTOS/croutine.o
  .debug_macro   0x0000000000000000       0x49 ./ThirdParty/FreeRTOS/croutine.o
- .debug_macro   0x0000000000000000       0xbc ./ThirdParty/FreeRTOS/croutine.o
+ .debug_macro   0x0000000000000000       0xc3 ./ThirdParty/FreeRTOS/croutine.o
  .debug_macro   0x0000000000000000      0x204 ./ThirdParty/FreeRTOS/croutine.o
  .debug_macro   0x0000000000000000      0x450 ./ThirdParty/FreeRTOS/croutine.o
  .debug_macro   0x0000000000000000      0x15a ./ThirdParty/FreeRTOS/croutine.o
@@ -2679,7 +2679,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x120 ./ThirdParty/FreeRTOS/croutine.o
  .debug_macro   0x0000000000000000       0x49 ./ThirdParty/FreeRTOS/croutine.o
  .debug_line    0x0000000000000000      0x763 ./ThirdParty/FreeRTOS/croutine.o
- .debug_str     0x0000000000000000     0xd0dc ./ThirdParty/FreeRTOS/croutine.o
+ .debug_str     0x0000000000000000     0xd0c6 ./ThirdParty/FreeRTOS/croutine.o
  .comment       0x0000000000000000       0x44 ./ThirdParty/FreeRTOS/croutine.o
  .ARM.attributes
                 0x0000000000000000       0x34 ./ThirdParty/FreeRTOS/croutine.o
@@ -2788,9 +2788,9 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x58 ./ThirdParty/FreeRTOS/event_groups.o
  .debug_macro   0x0000000000000000       0x46 ./ThirdParty/FreeRTOS/event_groups.o
  .debug_macro   0x0000000000000000       0x64 ./ThirdParty/FreeRTOS/event_groups.o
- .debug_macro   0x0000000000000000       0x16 ./ThirdParty/FreeRTOS/event_groups.o
+ .debug_macro   0x0000000000000000       0x10 ./ThirdParty/FreeRTOS/event_groups.o
  .debug_macro   0x0000000000000000       0x49 ./ThirdParty/FreeRTOS/event_groups.o
- .debug_macro   0x0000000000000000       0xbc ./ThirdParty/FreeRTOS/event_groups.o
+ .debug_macro   0x0000000000000000       0xc3 ./ThirdParty/FreeRTOS/event_groups.o
  .debug_macro   0x0000000000000000      0x204 ./ThirdParty/FreeRTOS/event_groups.o
  .debug_macro   0x0000000000000000      0x450 ./ThirdParty/FreeRTOS/event_groups.o
  .debug_macro   0x0000000000000000      0x15a ./ThirdParty/FreeRTOS/event_groups.o
@@ -2802,7 +2802,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x120 ./ThirdParty/FreeRTOS/event_groups.o
  .debug_macro   0x0000000000000000       0x91 ./ThirdParty/FreeRTOS/event_groups.o
  .debug_line    0x0000000000000000      0xcab ./ThirdParty/FreeRTOS/event_groups.o
- .debug_str     0x0000000000000000    0x10a9a ./ThirdParty/FreeRTOS/event_groups.o
+ .debug_str     0x0000000000000000    0x10a84 ./ThirdParty/FreeRTOS/event_groups.o
  .comment       0x0000000000000000       0x44 ./ThirdParty/FreeRTOS/event_groups.o
  .debug_frame   0x0000000000000000      0x1d0 ./ThirdParty/FreeRTOS/event_groups.o
  .ARM.attributes
@@ -2881,9 +2881,9 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x58 ./ThirdParty/FreeRTOS/list.o
  .debug_macro   0x0000000000000000       0x46 ./ThirdParty/FreeRTOS/list.o
  .debug_macro   0x0000000000000000       0x64 ./ThirdParty/FreeRTOS/list.o
- .debug_macro   0x0000000000000000       0x16 ./ThirdParty/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0x10 ./ThirdParty/FreeRTOS/list.o
  .debug_macro   0x0000000000000000       0x49 ./ThirdParty/FreeRTOS/list.o
- .debug_macro   0x0000000000000000       0xbc ./ThirdParty/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0xc3 ./ThirdParty/FreeRTOS/list.o
  .debug_macro   0x0000000000000000      0x204 ./ThirdParty/FreeRTOS/list.o
  .debug_macro   0x0000000000000000      0x450 ./ThirdParty/FreeRTOS/list.o
  .debug_macro   0x0000000000000000      0x15a ./ThirdParty/FreeRTOS/list.o
@@ -3049,9 +3049,9 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x58 ./ThirdParty/FreeRTOS/queue.o
  .debug_macro   0x0000000000000000       0x46 ./ThirdParty/FreeRTOS/queue.o
  .debug_macro   0x0000000000000000       0x64 ./ThirdParty/FreeRTOS/queue.o
- .debug_macro   0x0000000000000000       0x16 ./ThirdParty/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x10 ./ThirdParty/FreeRTOS/queue.o
  .debug_macro   0x0000000000000000       0x49 ./ThirdParty/FreeRTOS/queue.o
- .debug_macro   0x0000000000000000       0xbc ./ThirdParty/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0xc3 ./ThirdParty/FreeRTOS/queue.o
  .debug_macro   0x0000000000000000      0x204 ./ThirdParty/FreeRTOS/queue.o
  .debug_macro   0x0000000000000000      0x450 ./ThirdParty/FreeRTOS/queue.o
  .debug_macro   0x0000000000000000      0x15a ./ThirdParty/FreeRTOS/queue.o
@@ -3063,7 +3063,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x120 ./ThirdParty/FreeRTOS/queue.o
  .debug_macro   0x0000000000000000       0x80 ./ThirdParty/FreeRTOS/queue.o
  .debug_line    0x0000000000000000     0x1760 ./ThirdParty/FreeRTOS/queue.o
- .debug_str     0x0000000000000000    0x110a1 ./ThirdParty/FreeRTOS/queue.o
+ .debug_str     0x0000000000000000    0x1108b ./ThirdParty/FreeRTOS/queue.o
  .comment       0x0000000000000000       0x44 ./ThirdParty/FreeRTOS/queue.o
  .debug_frame   0x0000000000000000      0x520 ./ThirdParty/FreeRTOS/queue.o
  .ARM.attributes
@@ -3195,9 +3195,9 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x58 ./ThirdParty/FreeRTOS/stream_buffer.o
  .debug_macro   0x0000000000000000       0x46 ./ThirdParty/FreeRTOS/stream_buffer.o
  .debug_macro   0x0000000000000000       0x64 ./ThirdParty/FreeRTOS/stream_buffer.o
- .debug_macro   0x0000000000000000       0x16 ./ThirdParty/FreeRTOS/stream_buffer.o
+ .debug_macro   0x0000000000000000       0x10 ./ThirdParty/FreeRTOS/stream_buffer.o
  .debug_macro   0x0000000000000000       0x49 ./ThirdParty/FreeRTOS/stream_buffer.o
- .debug_macro   0x0000000000000000       0xbc ./ThirdParty/FreeRTOS/stream_buffer.o
+ .debug_macro   0x0000000000000000       0xc3 ./ThirdParty/FreeRTOS/stream_buffer.o
  .debug_macro   0x0000000000000000      0x204 ./ThirdParty/FreeRTOS/stream_buffer.o
  .debug_macro   0x0000000000000000      0x450 ./ThirdParty/FreeRTOS/stream_buffer.o
  .debug_macro   0x0000000000000000      0x15a ./ThirdParty/FreeRTOS/stream_buffer.o
@@ -3209,7 +3209,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x120 ./ThirdParty/FreeRTOS/stream_buffer.o
  .debug_macro   0x0000000000000000       0x18 ./ThirdParty/FreeRTOS/stream_buffer.o
  .debug_line    0x0000000000000000     0x11d2 ./ThirdParty/FreeRTOS/stream_buffer.o
- .debug_str     0x0000000000000000    0x10c90 ./ThirdParty/FreeRTOS/stream_buffer.o
+ .debug_str     0x0000000000000000    0x10c7a ./ThirdParty/FreeRTOS/stream_buffer.o
  .comment       0x0000000000000000       0x44 ./ThirdParty/FreeRTOS/stream_buffer.o
  .debug_frame   0x0000000000000000      0x3a8 ./ThirdParty/FreeRTOS/stream_buffer.o
  .ARM.attributes
@@ -3387,9 +3387,9 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x58 ./ThirdParty/FreeRTOS/tasks.o
  .debug_macro   0x0000000000000000       0x46 ./ThirdParty/FreeRTOS/tasks.o
  .debug_macro   0x0000000000000000       0x64 ./ThirdParty/FreeRTOS/tasks.o
- .debug_macro   0x0000000000000000       0x16 ./ThirdParty/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000000000       0x10 ./ThirdParty/FreeRTOS/tasks.o
  .debug_macro   0x0000000000000000       0x49 ./ThirdParty/FreeRTOS/tasks.o
- .debug_macro   0x0000000000000000       0xbc ./ThirdParty/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000000000       0xc3 ./ThirdParty/FreeRTOS/tasks.o
  .debug_macro   0x0000000000000000      0x204 ./ThirdParty/FreeRTOS/tasks.o
  .debug_macro   0x0000000000000000      0x450 ./ThirdParty/FreeRTOS/tasks.o
  .debug_macro   0x0000000000000000      0x15a ./ThirdParty/FreeRTOS/tasks.o
@@ -3480,9 +3480,9 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x58 ./ThirdParty/FreeRTOS/timers.o
  .debug_macro   0x0000000000000000       0x46 ./ThirdParty/FreeRTOS/timers.o
  .debug_macro   0x0000000000000000       0x64 ./ThirdParty/FreeRTOS/timers.o
- .debug_macro   0x0000000000000000       0x16 ./ThirdParty/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0x10 ./ThirdParty/FreeRTOS/timers.o
  .debug_macro   0x0000000000000000       0x49 ./ThirdParty/FreeRTOS/timers.o
- .debug_macro   0x0000000000000000       0xbc ./ThirdParty/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0xc3 ./ThirdParty/FreeRTOS/timers.o
  .debug_macro   0x0000000000000000      0x204 ./ThirdParty/FreeRTOS/timers.o
  .debug_macro   0x0000000000000000      0x450 ./ThirdParty/FreeRTOS/timers.o
  .debug_macro   0x0000000000000000      0x15a ./ThirdParty/FreeRTOS/timers.o
@@ -3495,7 +3495,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x80 ./ThirdParty/FreeRTOS/timers.o
  .debug_macro   0x0000000000000000       0x97 ./ThirdParty/FreeRTOS/timers.o
  .debug_line    0x0000000000000000      0x8ba ./ThirdParty/FreeRTOS/timers.o
- .debug_str     0x0000000000000000    0x10bd5 ./ThirdParty/FreeRTOS/timers.o
+ .debug_str     0x0000000000000000    0x10bbf ./ThirdParty/FreeRTOS/timers.o
  .comment       0x0000000000000000       0x44 ./ThirdParty/FreeRTOS/timers.o
  .ARM.attributes
                 0x0000000000000000       0x34 ./ThirdParty/FreeRTOS/timers.o
@@ -3542,9 +3542,9 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x58 ./ThirdParty/FreeRTOS/portable/GCC/ARM_CM4F/port.o
  .debug_macro   0x0000000000000000       0x46 ./ThirdParty/FreeRTOS/portable/GCC/ARM_CM4F/port.o
  .debug_macro   0x0000000000000000       0x64 ./ThirdParty/FreeRTOS/portable/GCC/ARM_CM4F/port.o
- .debug_macro   0x0000000000000000       0x16 ./ThirdParty/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x0000000000000000       0x10 ./ThirdParty/FreeRTOS/portable/GCC/ARM_CM4F/port.o
  .debug_macro   0x0000000000000000       0x49 ./ThirdParty/FreeRTOS/portable/GCC/ARM_CM4F/port.o
- .debug_macro   0x0000000000000000       0xbc ./ThirdParty/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x0000000000000000       0xc3 ./ThirdParty/FreeRTOS/portable/GCC/ARM_CM4F/port.o
  .debug_macro   0x0000000000000000      0x204 ./ThirdParty/FreeRTOS/portable/GCC/ARM_CM4F/port.o
  .debug_macro   0x0000000000000000      0x450 ./ThirdParty/FreeRTOS/portable/GCC/ARM_CM4F/port.o
  .debug_macro   0x0000000000000000      0x15a ./ThirdParty/FreeRTOS/portable/GCC/ARM_CM4F/port.o
@@ -3637,9 +3637,9 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x58 ./ThirdParty/FreeRTOS/portable/MemMang/heap_4.o
  .debug_macro   0x0000000000000000       0x46 ./ThirdParty/FreeRTOS/portable/MemMang/heap_4.o
  .debug_macro   0x0000000000000000       0x64 ./ThirdParty/FreeRTOS/portable/MemMang/heap_4.o
- .debug_macro   0x0000000000000000       0x16 ./ThirdParty/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0x10 ./ThirdParty/FreeRTOS/portable/MemMang/heap_4.o
  .debug_macro   0x0000000000000000       0x49 ./ThirdParty/FreeRTOS/portable/MemMang/heap_4.o
- .debug_macro   0x0000000000000000       0xbc ./ThirdParty/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0xc3 ./ThirdParty/FreeRTOS/portable/MemMang/heap_4.o
  .debug_macro   0x0000000000000000      0x204 ./ThirdParty/FreeRTOS/portable/MemMang/heap_4.o
  .debug_macro   0x0000000000000000      0x450 ./ThirdParty/FreeRTOS/portable/MemMang/heap_4.o
  .debug_macro   0x0000000000000000      0x15a ./ThirdParty/FreeRTOS/portable/MemMang/heap_4.o
@@ -3686,9 +3686,9 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x58 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
  .debug_macro   0x0000000000000000       0x46 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
  .debug_macro   0x0000000000000000       0x64 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
- .debug_macro   0x0000000000000000       0x16 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
+ .debug_macro   0x0000000000000000       0x10 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
  .debug_macro   0x0000000000000000       0x49 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
- .debug_macro   0x0000000000000000       0xbc ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
+ .debug_macro   0x0000000000000000       0xc3 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
  .debug_macro   0x0000000000000000      0x204 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
  .debug_macro   0x0000000000000000      0x450 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
  .debug_macro   0x0000000000000000      0x15a ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
@@ -3755,9 +3755,9 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x58 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
  .debug_macro   0x0000000000000000       0x46 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
  .debug_macro   0x0000000000000000       0x64 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
- .debug_macro   0x0000000000000000       0x16 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .debug_macro   0x0000000000000000       0x10 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
  .debug_macro   0x0000000000000000       0x49 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
- .debug_macro   0x0000000000000000       0xbc ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .debug_macro   0x0000000000000000       0xc3 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
  .debug_macro   0x0000000000000000      0x204 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
  .debug_macro   0x0000000000000000      0x450 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
  .debug_macro   0x0000000000000000      0x15a ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
@@ -3783,149 +3783,6 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x10 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
  .debug_macro   0x0000000000000000       0x35 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
  .debug_macro   0x0000000000000000       0x20 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .text          0x0000000000000000        0x0 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .data          0x0000000000000000        0x0 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .bss           0x0000000000000000        0x0 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .text.__NVIC_EnableIRQ
-                0x0000000000000000       0x3c ./ThirdParty/SEGGER/Rec/segger_uart.o
- .text.__NVIC_SetPriority
-                0x0000000000000000       0x54 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .rodata._abHelloMsg
-                0x0000000000000000        0x4 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .data._SVInfo  0x0000000000000000        0x8 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .text._StartSysView
-                0x0000000000000000       0x1e ./ThirdParty/SEGGER/Rec/segger_uart.o
- .text._cbOnUARTRx
-                0x0000000000000000       0x40 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .text._cbOnUARTTx
-                0x0000000000000000       0x64 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .text.SEGGER_UART_init
-                0x0000000000000000       0x24 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .text.HIF_UART_WaitForTxEnd
-                0x0000000000000000       0x30 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .text.HIF_UART_Init
-                0x0000000000000000       0xf4 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0xaa8 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x58 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x46 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x64 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x16 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x49 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0xbc ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0x204 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x2a ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x22 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x5b ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x94 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x43 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x34 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x16 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0x10e ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x8d ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x16 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x43 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x57 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x34 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x10 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x58 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x8e ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x1c ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0x177 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0x369 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x16 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x29 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x2e ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x28 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0x103 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x6a ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0x1df ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x1c ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x22 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0xfb ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000     0x1011 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0x11f ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000    0x18b93 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x6d ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0x155 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000     0x3554 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000     0x171f ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0x600 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0x1b6 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0x34a ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0x53c ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0x18b ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000       0x43 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0x23d ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0x211 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0x45c ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0x11c ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0x122 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0x3d1 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0xbef ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0x718 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000000000      0x358 ./ThirdParty/SEGGER/Rec/segger_uart.o
  .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
  .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
  .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
@@ -4050,7 +3907,6 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x16 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
  .debug_macro   0x0000000000000000       0x29 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
  .debug_macro   0x0000000000000000       0x58 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
- .debug_macro   0x0000000000000000      0x138 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
  .debug_macro   0x0000000000000000       0x16 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
  .debug_macro   0x0000000000000000       0x35 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
  .debug_macro   0x0000000000000000       0x20 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
@@ -4290,9 +4146,9 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x58 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
  .debug_macro   0x0000000000000000       0x46 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
  .debug_macro   0x0000000000000000       0x64 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
- .debug_macro   0x0000000000000000       0x16 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .debug_macro   0x0000000000000000       0x10 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
  .debug_macro   0x0000000000000000       0x49 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
- .debug_macro   0x0000000000000000       0xbc ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .debug_macro   0x0000000000000000       0xc3 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
  .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/SEGGER/Syscalls/SEGGER_RTT_Syscalls_GCC.o
  .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/SEGGER/Syscalls/SEGGER_RTT_Syscalls_GCC.o
  .group         0x0000000000000000        0xc ./ThirdParty/SEGGER/SEGGER/Syscalls/SEGGER_RTT_Syscalls_GCC.o
@@ -4617,7 +4473,6 @@ LOAD ./ThirdParty/FreeRTOS/portable/GCC/ARM_CM4F/port.o
 LOAD ./ThirdParty/FreeRTOS/portable/MemMang/heap_4.o
 LOAD ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
 LOAD ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
-LOAD ./ThirdParty/SEGGER/Rec/segger_uart.o
 LOAD ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
 LOAD ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT_ASM_ARMv7M.o
 LOAD ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT_printf.o
@@ -4654,7 +4509,7 @@ LOAD F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
                 0x0000000008000000                g_pfnVectors
                 0x00000000080001d8                . = ALIGN (0x4)
 
-.text           0x00000000080001e0     0x5ab4
+.text           0x00000000080001e0     0x59f0
                 0x00000000080001e0                . = ALIGN (0x4)
  *(.text)
  .text          0x00000000080001e0       0x40 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crtbegin.o
@@ -4810,6 +4665,7 @@ LOAD F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
                 0x0000000008000838                TIM8_BRK_IRQHandler
                 0x0000000008000838                FLASH_IRQHandler
                 0x0000000008000838                TIM20_CC_IRQHandler
+                0x0000000008000838                USART1_IRQHandler
                 0x0000000008000838                SPI3_IRQHandler
                 0x0000000008000838                I2C1_ER_IRQHandler
                 0x0000000008000838                FMC_IRQHandler
@@ -5050,276 +4906,270 @@ LOAD F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
                 0x00000000080035c8       0x42 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
                 0x00000000080035c8                SYSVIEW_SendTaskInfo
  *fill*         0x000000000800360a        0x2 
- .text.USART1_IRQHandler
-                0x000000000800360c       0x98 ./ThirdParty/SEGGER/Rec/segger_uart.o
-                0x000000000800360c                USART1_IRQHandler
- .text.HIF_UART_EnableTXEInterrupt
-                0x00000000080036a4       0x20 ./ThirdParty/SEGGER/Rec/segger_uart.o
-                0x00000000080036a4                HIF_UART_EnableTXEInterrupt
- .text._DoInit  0x00000000080036c4       0xb0 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .text._DoInit  0x000000000800360c       0xb0 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
  .text.SEGGER_RTT_ReadNoLock
-                0x0000000008003774      0x10c ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
-                0x0000000008003774                SEGGER_RTT_ReadNoLock
+                0x00000000080036bc      0x10c ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+                0x00000000080036bc                SEGGER_RTT_ReadNoLock
  .text.SEGGER_RTT_AllocUpBuffer
-                0x0000000008003880      0x108 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
-                0x0000000008003880                SEGGER_RTT_AllocUpBuffer
+                0x00000000080037c8      0x108 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+                0x00000000080037c8                SEGGER_RTT_AllocUpBuffer
  .text.SEGGER_RTT_ConfigDownBuffer
-                0x0000000008003988       0xe0 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
-                0x0000000008003988                SEGGER_RTT_ConfigDownBuffer
+                0x00000000080038d0       0xe0 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+                0x00000000080038d0                SEGGER_RTT_ConfigDownBuffer
  .text._EncodeStr
-                0x0000000008003a68       0x9a ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x00000000080039b0       0x9a ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
  .text._PreparePacket
-                0x0000000008003b02       0x18 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
- *fill*         0x0000000008003b1a        0x2 
+                0x0000000008003a4a       0x18 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ *fill*         0x0000000008003a62        0x2 
  .text._HandleIncomingPacket
-                0x0000000008003b1c       0xe0 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008003a64       0xe0 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
  .text._TrySendOverflowPacket
-                0x0000000008003bfc       0xe8 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008003b44       0xe4 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
  .text._SendPacket
-                0x0000000008003ce4      0x1d0 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008003c28      0x1cc ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
  .text._StoreChar
-                0x0000000008003eb4       0xf6 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
- *fill*         0x0000000008003faa        0x2 
+                0x0000000008003df4       0xf6 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ *fill*         0x0000000008003eea        0x2 
  .text._PrintUnsigned
-                0x0000000008003fac      0x12c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008003eec      0x12c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
  .text._PrintInt
-                0x00000000080040d8      0x11e ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
- *fill*         0x00000000080041f6        0x2 
+                0x0000000008004018      0x11e ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ *fill*         0x0000000008004136        0x2 
  .text._VPrintTarget
-                0x00000000080041f8      0x3f0 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008004138      0x3f0 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
  .text.SEGGER_SYSVIEW_Init
-                0x00000000080045e8       0x88 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x00000000080045e8                SEGGER_SYSVIEW_Init
+                0x0000000008004528       0x88 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008004528                SEGGER_SYSVIEW_Init
  .text.SEGGER_SYSVIEW_SetRAMBase
-                0x0000000008004670       0x20 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x0000000008004670                SEGGER_SYSVIEW_SetRAMBase
+                0x00000000080045b0       0x20 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x00000000080045b0                SEGGER_SYSVIEW_SetRAMBase
  .text.SEGGER_SYSVIEW_RecordVoid
-                0x0000000008004690       0x3c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x0000000008004690                SEGGER_SYSVIEW_RecordVoid
+                0x00000000080045d0       0x3c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x00000000080045d0                SEGGER_SYSVIEW_RecordVoid
  .text.SEGGER_SYSVIEW_RecordU32
-                0x00000000080046cc       0x78 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x00000000080046cc                SEGGER_SYSVIEW_RecordU32
+                0x000000000800460c       0x78 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x000000000800460c                SEGGER_SYSVIEW_RecordU32
  .text.SEGGER_SYSVIEW_RecordU32x2
-                0x0000000008004744       0xb4 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x0000000008004744                SEGGER_SYSVIEW_RecordU32x2
+                0x0000000008004684       0xb4 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008004684                SEGGER_SYSVIEW_RecordU32x2
  .text.SEGGER_SYSVIEW_Start
-                0x00000000080047f8      0x178 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x00000000080047f8                SEGGER_SYSVIEW_Start
+                0x0000000008004738      0x174 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008004738                SEGGER_SYSVIEW_Start
  .text.SEGGER_SYSVIEW_Stop
-                0x0000000008004970       0x4c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x0000000008004970                SEGGER_SYSVIEW_Stop
+                0x00000000080048ac       0x4c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x00000000080048ac                SEGGER_SYSVIEW_Stop
  .text.SEGGER_SYSVIEW_GetSysDesc
-                0x00000000080049bc      0x134 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x00000000080049bc                SEGGER_SYSVIEW_GetSysDesc
+                0x00000000080048f8      0x134 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x00000000080048f8                SEGGER_SYSVIEW_GetSysDesc
  .text.SEGGER_SYSVIEW_SendTaskInfo
-                0x0000000008004af0      0x1c8 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x0000000008004af0                SEGGER_SYSVIEW_SendTaskInfo
+                0x0000000008004a2c      0x1c8 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008004a2c                SEGGER_SYSVIEW_SendTaskInfo
  .text.SEGGER_SYSVIEW_SendTaskList
-                0x0000000008004cb8       0x28 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x0000000008004cb8                SEGGER_SYSVIEW_SendTaskList
+                0x0000000008004bf4       0x28 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008004bf4                SEGGER_SYSVIEW_SendTaskList
  .text.SEGGER_SYSVIEW_SendSysDesc
-                0x0000000008004ce0       0x48 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x0000000008004ce0                SEGGER_SYSVIEW_SendSysDesc
+                0x0000000008004c1c       0x48 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008004c1c                SEGGER_SYSVIEW_SendSysDesc
  .text.SEGGER_SYSVIEW_RecordSystime
-                0x0000000008004d28       0x64 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x0000000008004d28                SEGGER_SYSVIEW_RecordSystime
+                0x0000000008004c64       0x64 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008004c64                SEGGER_SYSVIEW_RecordSystime
  .text.SEGGER_SYSVIEW_RecordEnterISR
-                0x0000000008004d8c       0x84 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x0000000008004d8c                SEGGER_SYSVIEW_RecordEnterISR
+                0x0000000008004cc8       0x84 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008004cc8                SEGGER_SYSVIEW_RecordEnterISR
  .text.SEGGER_SYSVIEW_RecordExitISR
-                0x0000000008004e10       0x38 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x0000000008004e10                SEGGER_SYSVIEW_RecordExitISR
+                0x0000000008004d4c       0x38 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008004d4c                SEGGER_SYSVIEW_RecordExitISR
  .text.SEGGER_SYSVIEW_RecordExitISRToScheduler
-                0x0000000008004e48       0x38 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x0000000008004e48                SEGGER_SYSVIEW_RecordExitISRToScheduler
+                0x0000000008004d84       0x38 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008004d84                SEGGER_SYSVIEW_RecordExitISRToScheduler
  .text.SEGGER_SYSVIEW_OnIdle
-                0x0000000008004e80       0x38 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x0000000008004e80                SEGGER_SYSVIEW_OnIdle
+                0x0000000008004dbc       0x38 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008004dbc                SEGGER_SYSVIEW_OnIdle
  .text.SEGGER_SYSVIEW_OnTaskCreate
-                0x0000000008004eb8       0x84 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x0000000008004eb8                SEGGER_SYSVIEW_OnTaskCreate
+                0x0000000008004df4       0x84 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008004df4                SEGGER_SYSVIEW_OnTaskCreate
  .text.SEGGER_SYSVIEW_OnTaskStartExec
-                0x0000000008004f3c       0x84 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x0000000008004f3c                SEGGER_SYSVIEW_OnTaskStartExec
+                0x0000000008004e78       0x84 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008004e78                SEGGER_SYSVIEW_OnTaskStartExec
  .text.SEGGER_SYSVIEW_OnTaskStartReady
-                0x0000000008004fc0       0x84 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x0000000008004fc0                SEGGER_SYSVIEW_OnTaskStartReady
+                0x0000000008004efc       0x84 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008004efc                SEGGER_SYSVIEW_OnTaskStartReady
  .text.SEGGER_SYSVIEW_SendModule
-                0x0000000008005044      0x100 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x0000000008005044                SEGGER_SYSVIEW_SendModule
+                0x0000000008004f80      0x100 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008004f80                SEGGER_SYSVIEW_SendModule
  .text.SEGGER_SYSVIEW_SendModuleDescription
-                0x0000000008005144       0x3c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x0000000008005144                SEGGER_SYSVIEW_SendModuleDescription
+                0x0000000008005080       0x3c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008005080                SEGGER_SYSVIEW_SendModuleDescription
  .text.SEGGER_SYSVIEW_SendNumModules
-                0x0000000008005180       0x7c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x0000000008005180                SEGGER_SYSVIEW_SendNumModules
+                0x00000000080050bc       0x7c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x00000000080050bc                SEGGER_SYSVIEW_SendNumModules
  .text.SEGGER_SYSVIEW_PrintfTarget
-                0x00000000080051fc       0x28 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x00000000080051fc                SEGGER_SYSVIEW_PrintfTarget
+                0x0000000008005138       0x28 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008005138                SEGGER_SYSVIEW_PrintfTarget
  .text.SEGGER_SYSVIEW_Warn
-                0x0000000008005224       0xb8 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                0x0000000008005224                SEGGER_SYSVIEW_Warn
+                0x0000000008005160       0xb8 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008005160                SEGGER_SYSVIEW_Warn
  .text.snprintf
-                0x00000000080052dc       0x68 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-snprintf.o)
-                0x00000000080052dc                sniprintf
-                0x00000000080052dc                snprintf
- .text.memcmp   0x0000000008005344       0x20 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcmp.o)
-                0x0000000008005344                memcmp
- .text.memset   0x0000000008005364       0x10 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
-                0x0000000008005364                memset
+                0x0000000008005218       0x68 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-snprintf.o)
+                0x0000000008005218                sniprintf
+                0x0000000008005218                snprintf
+ .text.memcmp   0x0000000008005280       0x20 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcmp.o)
+                0x0000000008005280                memcmp
+ .text.memset   0x00000000080052a0       0x10 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+                0x00000000080052a0                memset
  .text.__libc_init_array
-                0x0000000008005374       0x48 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
-                0x0000000008005374                __libc_init_array
+                0x00000000080052b0       0x48 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+                0x00000000080052b0                __libc_init_array
  .text.__retarget_lock_acquire_recursive
-                0x00000000080053bc        0x2 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
-                0x00000000080053bc                __retarget_lock_acquire_recursive
+                0x00000000080052f8        0x2 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00000000080052f8                __retarget_lock_acquire_recursive
  .text.__retarget_lock_release_recursive
-                0x00000000080053be        0x2 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
-                0x00000000080053be                __retarget_lock_release_recursive
- .text.memcpy   0x00000000080053c0       0x1c F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
-                0x00000000080053c0                memcpy
- .text._free_r  0x00000000080053dc       0x98 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
-                0x00000000080053dc                _free_r
+                0x00000000080052fa        0x2 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00000000080052fa                __retarget_lock_release_recursive
+ .text.memcpy   0x00000000080052fc       0x1c F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+                0x00000000080052fc                memcpy
+ .text._free_r  0x0000000008005318       0x98 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+                0x0000000008005318                _free_r
  .text.sbrk_aligned
-                0x0000000008005474       0x40 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                0x00000000080053b0       0x40 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
  .text._malloc_r
-                0x00000000080054b4      0x100 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
-                0x00000000080054b4                _malloc_r
+                0x00000000080053f0      0x100 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                0x00000000080053f0                _malloc_r
  .text.__malloc_lock
-                0x00000000080055b4        0xc F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
-                0x00000000080055b4                __malloc_lock
+                0x00000000080054f0        0xc F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+                0x00000000080054f0                __malloc_lock
  .text.__malloc_unlock
-                0x00000000080055c0        0xc F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
-                0x00000000080055c0                __malloc_unlock
+                0x00000000080054fc        0xc F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+                0x00000000080054fc                __malloc_unlock
  .text.__ssputs_r
-                0x00000000080055cc       0xb4 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
-                0x00000000080055cc                __ssputs_r
+                0x0000000008005508       0xb4 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+                0x0000000008005508                __ssputs_r
  .text._svfprintf_r
-                0x0000000008005680      0x1fc F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
-                0x0000000008005680                _svfiprintf_r
-                0x0000000008005680                _svfprintf_r
+                0x00000000080055bc      0x1fc F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+                0x00000000080055bc                _svfiprintf_r
+                0x00000000080055bc                _svfprintf_r
  .text._printf_common
-                0x000000000800587c       0xda F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
-                0x000000000800587c                _printf_common
- *fill*         0x0000000008005956        0x2 
+                0x00000000080057b8       0xda F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                0x00000000080057b8                _printf_common
+ *fill*         0x0000000008005892        0x2 
  .text._printf_i
-                0x0000000008005958      0x244 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
-                0x0000000008005958                _printf_i
- .text.memmove  0x0000000008005b9c       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memmove.o)
-                0x0000000008005b9c                memmove
- .text._sbrk_r  0x0000000008005bd0       0x20 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
-                0x0000000008005bd0                _sbrk_r
+                0x0000000008005894      0x244 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                0x0000000008005894                _printf_i
+ .text.memmove  0x0000000008005ad8       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memmove.o)
+                0x0000000008005ad8                memmove
+ .text._sbrk_r  0x0000000008005b0c       0x20 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+                0x0000000008005b0c                _sbrk_r
  .text._realloc_r
-                0x0000000008005bf0       0x5e F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reallocr.o)
-                0x0000000008005bf0                _realloc_r
+                0x0000000008005b2c       0x5e F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reallocr.o)
+                0x0000000008005b2c                _realloc_r
  .text._malloc_usable_size_r
-                0x0000000008005c4e       0x10 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-msizer.o)
-                0x0000000008005c4e                _malloc_usable_size_r
- *fill*         0x0000000008005c5e        0x2 
- .text._sbrk    0x0000000008005c60       0x1c F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
-                0x0000000008005c60                _sbrk
+                0x0000000008005b8a       0x10 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-msizer.o)
+                0x0000000008005b8a                _malloc_usable_size_r
+ *fill*         0x0000000008005b9a        0x2 
+ .text._sbrk    0x0000000008005b9c       0x1c F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+                0x0000000008005b9c                _sbrk
  *(.glue_7)
- .glue_7        0x0000000008005c7c        0x0 linker stubs
+ .glue_7        0x0000000008005bb8        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x0000000008005c7c        0x0 linker stubs
+ .glue_7t       0x0000000008005bb8        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x0000000008005c7c        0x0 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .eh_frame      0x0000000008005bb8        0x0 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crtbegin.o
  *(.init)
- .init          0x0000000008005c7c        0x4 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crti.o
-                0x0000000008005c7c                _init
- .init          0x0000000008005c80        0x8 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .init          0x0000000008005bb8        0x4 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x0000000008005bb8                _init
+ .init          0x0000000008005bbc        0x8 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crtn.o
  *(.fini)
- .fini          0x0000000008005c88        0x4 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crti.o
-                0x0000000008005c88                _fini
- .fini          0x0000000008005c8c        0x8 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crtn.o
-                0x0000000008005c94                . = ALIGN (0x4)
-                0x0000000008005c94                _etext = .
+ .fini          0x0000000008005bc4        0x4 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x0000000008005bc4                _fini
+ .fini          0x0000000008005bc8        0x8 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000008005bd0                . = ALIGN (0x4)
+                0x0000000008005bd0                _etext = .
 
-.vfp11_veneer   0x0000000008005c94        0x0
- .vfp11_veneer  0x0000000008005c94        0x0 linker stubs
+.vfp11_veneer   0x0000000008005bd0        0x0
+ .vfp11_veneer  0x0000000008005bd0        0x0 linker stubs
 
-.v4_bx          0x0000000008005c94        0x0
- .v4_bx         0x0000000008005c94        0x0 linker stubs
+.v4_bx          0x0000000008005bd0        0x0
+ .v4_bx         0x0000000008005bd0        0x0 linker stubs
 
-.iplt           0x0000000008005c94        0x0
- .iplt          0x0000000008005c94        0x0 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+.iplt           0x0000000008005bd0        0x0
+ .iplt          0x0000000008005bd0        0x0 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crtbegin.o
 
-.rodata         0x0000000008005c94      0x190
-                0x0000000008005c94                . = ALIGN (0x4)
+.rodata         0x0000000008005bd0      0x190
+                0x0000000008005bd0                . = ALIGN (0x4)
  *(.rodata)
- .rodata        0x0000000008005c94       0x4c ./Core/Src/main.o
- .rodata        0x0000000008005ce0        0x5 ./ThirdParty/FreeRTOS/tasks.o
- *fill*         0x0000000008005ce5        0x3 
- .rodata        0x0000000008005ce8       0x51 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
- *fill*         0x0000000008005d39        0x3 
- .rodata        0x0000000008005d3c       0x58 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
- .rodata        0x0000000008005d94       0x17 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
- *fill*         0x0000000008005dab        0x1 
- .rodata        0x0000000008005dac        0x8 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .rodata        0x0000000008005bd0       0x4c ./Core/Src/main.o
+ .rodata        0x0000000008005c1c        0x5 ./ThirdParty/FreeRTOS/tasks.o
+ *fill*         0x0000000008005c21        0x3 
+ .rodata        0x0000000008005c24       0x51 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
+ *fill*         0x0000000008005c75        0x3 
+ .rodata        0x0000000008005c78       0x58 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .rodata        0x0000000008005cd0       0x17 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ *fill*         0x0000000008005ce7        0x1 
+ .rodata        0x0000000008005ce8        0x8 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
  *(.rodata*)
  .rodata.AHBPrescTable
-                0x0000000008005db4       0x10 ./Core/Src/system_stm32g4xx.o
-                0x0000000008005db4                AHBPrescTable
+                0x0000000008005cf0       0x10 ./Core/Src/system_stm32g4xx.o
+                0x0000000008005cf0                AHBPrescTable
  .rodata.APBPrescTable
-                0x0000000008005dc4        0x8 ./Core/Src/system_stm32g4xx.o
-                0x0000000008005dc4                APBPrescTable
+                0x0000000008005d00        0x8 ./Core/Src/system_stm32g4xx.o
+                0x0000000008005d00                APBPrescTable
  .rodata.SYSVIEW_X_OS_TraceAPI
-                0x0000000008005dcc        0x8 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
-                0x0000000008005dcc                SYSVIEW_X_OS_TraceAPI
+                0x0000000008005d08        0x8 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+                0x0000000008005d08                SYSVIEW_X_OS_TraceAPI
  .rodata._abSync
-                0x0000000008005dd4        0xa ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
- *fill*         0x0000000008005dde        0x2 
+                0x0000000008005d10        0xa ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ *fill*         0x0000000008005d1a        0x2 
  .rodata._aV2C.0
-                0x0000000008005de0       0x10 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000008005d1c       0x10 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
  .rodata._svfprintf_r.str1.1
-                0x0000000008005df0       0x11 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+                0x0000000008005d2c       0x11 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
  .rodata._printf_i.str1.1
-                0x0000000008005e01       0x22 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
-                0x0000000008005e24                . = ALIGN (0x4)
- *fill*         0x0000000008005e23        0x1 
+                0x0000000008005d3d       0x22 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                0x0000000008005d60                . = ALIGN (0x4)
+ *fill*         0x0000000008005d5f        0x1 
 
-.rel.dyn        0x0000000008005e24        0x0
- .rel.iplt      0x0000000008005e24        0x0 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+.rel.dyn        0x0000000008005d60        0x0
+ .rel.iplt      0x0000000008005d60        0x0 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crtbegin.o
 
-.ARM.extab      0x0000000008005e24        0x0
-                0x0000000008005e24                . = ALIGN (0x4)
+.ARM.extab      0x0000000008005d60        0x0
+                0x0000000008005d60                . = ALIGN (0x4)
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x0000000008005e24                . = ALIGN (0x4)
+                0x0000000008005d60                . = ALIGN (0x4)
 
-.ARM            0x0000000008005e24        0x0
-                0x0000000008005e24                . = ALIGN (0x4)
-                0x0000000008005e24                __exidx_start = .
+.ARM            0x0000000008005d60        0x0
+                0x0000000008005d60                . = ALIGN (0x4)
+                0x0000000008005d60                __exidx_start = .
  *(.ARM.exidx*)
-                0x0000000008005e24                __exidx_end = .
-                0x0000000008005e24                . = ALIGN (0x4)
+                0x0000000008005d60                __exidx_end = .
+                0x0000000008005d60                . = ALIGN (0x4)
 
-.preinit_array  0x0000000008005e24        0x0
-                0x0000000008005e24                . = ALIGN (0x4)
-                0x0000000008005e24                PROVIDE (__preinit_array_start = .)
+.preinit_array  0x0000000008005d60        0x0
+                0x0000000008005d60                . = ALIGN (0x4)
+                0x0000000008005d60                PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x0000000008005e24                PROVIDE (__preinit_array_end = .)
-                0x0000000008005e24                . = ALIGN (0x4)
+                0x0000000008005d60                PROVIDE (__preinit_array_end = .)
+                0x0000000008005d60                . = ALIGN (0x4)
 
-.init_array     0x0000000008005e24        0x4
-                0x0000000008005e24                . = ALIGN (0x4)
-                0x0000000008005e24                PROVIDE (__init_array_start = .)
+.init_array     0x0000000008005d60        0x4
+                0x0000000008005d60                . = ALIGN (0x4)
+                0x0000000008005d60                PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x0000000008005e24        0x4 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crtbegin.o
-                0x0000000008005e28                PROVIDE (__init_array_end = .)
-                0x0000000008005e28                . = ALIGN (0x4)
+ .init_array    0x0000000008005d60        0x4 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x0000000008005d64                PROVIDE (__init_array_end = .)
+                0x0000000008005d64                . = ALIGN (0x4)
 
-.fini_array     0x0000000008005e28        0x4
-                0x0000000008005e28                . = ALIGN (0x4)
+.fini_array     0x0000000008005d64        0x4
+                0x0000000008005d64                . = ALIGN (0x4)
                 [!provide]                        PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x0000000008005e28        0x4 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .fini_array    0x0000000008005d64        0x4 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crtbegin.o
                 [!provide]                        PROVIDE (__fini_array_end = .)
-                0x0000000008005e2c                . = ALIGN (0x4)
-                0x0000000008005e2c                _sidata = LOADADDR (.data)
+                0x0000000008005d68                . = ALIGN (0x4)
+                0x0000000008005d68                _sidata = LOADADDR (.data)
 
-.data           0x0000000020000000       0x64 load address 0x0000000008005e2c
+.data           0x0000000020000000       0x64 load address 0x0000000008005d68
                 0x0000000020000000                . = ALIGN (0x4)
                 0x0000000020000000                _sdata = .
  *(.data)
@@ -5349,11 +5199,11 @@ LOAD F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
                 0x0000000020000064                . = ALIGN (0x4)
                 0x0000000020000064                _edata = .
 
-.igot.plt       0x0000000020000064        0x0 load address 0x0000000008005e90
+.igot.plt       0x0000000020000064        0x0 load address 0x0000000008005dcc
  .igot.plt      0x0000000020000064        0x0 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crtbegin.o
                 0x0000000020000064                . = ALIGN (0x4)
 
-.bss            0x0000000020000064    0x14564 load address 0x0000000008005e90
+.bss            0x0000000020000064    0x1455c load address 0x0000000008005dcc
                 0x0000000020000064                _sbss = .
                 0x0000000020000064                __bss_start__ = _sbss
  *(.bss)
@@ -5427,59 +5277,57 @@ LOAD F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
  .bss._aTasks   0x0000000020012dfc       0xa0 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
  .bss._NumTasks
                 0x0000000020012e9c        0x4 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
- .bss._cbOnRx   0x0000000020012ea0        0x4 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .bss._cbOnTx   0x0000000020012ea4        0x4 ./ThirdParty/SEGGER/Rec/segger_uart.o
  .bss._SEGGER_RTT
-                0x0000000020012ea8       0xa8 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
-                0x0000000020012ea8                _SEGGER_RTT
+                0x0000000020012ea0       0xa8 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+                0x0000000020012ea0                _SEGGER_RTT
  .bss._acUpBuffer
-                0x0000000020012f50      0x400 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+                0x0000000020012f48      0x400 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
  .bss._acDownBuffer
-                0x0000000020013350       0x10 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+                0x0000000020013348       0x10 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
  .bss._UpBuffer
-                0x0000000020013360     0x1000 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000020013358     0x1000 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
  .bss._DownBuffer
-                0x0000000020014360        0x8 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000020014358        0x8 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
  .bss._SYSVIEW_Globals
-                0x0000000020014368       0x28 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000020014360       0x28 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
  .bss._pFirstModule
-                0x0000000020014390        0x4 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000020014388        0x4 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
  .bss._NumModules
-                0x0000000020014394        0x1 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
- *fill*         0x0000000020014395        0x3 
- .bss._aPacket  0x0000000020014398       0xe3 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
- *fill*         0x000000002001447b        0x1 
- .bss.__sf      0x000000002001447c      0x138 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
-                0x000000002001447c                __sf
- .bss.errno     0x00000000200145b4        0x4 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
-                0x00000000200145b4                errno
+                0x000000002001438c        0x1 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ *fill*         0x000000002001438d        0x3 
+ .bss._aPacket  0x0000000020014390       0xe3 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ *fill*         0x0000000020014473        0x1 
+ .bss.__sf      0x0000000020014474      0x138 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x0000000020014474                __sf
+ .bss.errno     0x00000000200145ac        0x4 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+                0x00000000200145ac                errno
  .bss.__lock___malloc_recursive_mutex
-                0x00000000200145b8        0x1 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
-                0x00000000200145b8                __lock___malloc_recursive_mutex
- *fill*         0x00000000200145b9        0x3 
+                0x00000000200145b0        0x1 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00000000200145b0                __lock___malloc_recursive_mutex
+ *fill*         0x00000000200145b1        0x3 
  .bss.__malloc_free_list
-                0x00000000200145bc        0x4 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
-                0x00000000200145bc                __malloc_free_list
+                0x00000000200145b4        0x4 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                0x00000000200145b4                __malloc_free_list
  .bss.__malloc_sbrk_start
-                0x00000000200145c0        0x4 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
-                0x00000000200145c0                __malloc_sbrk_start
+                0x00000000200145b8        0x4 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                0x00000000200145b8                __malloc_sbrk_start
  .bss.heap_end.0
-                0x00000000200145c4        0x4 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+                0x00000000200145bc        0x4 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
  *(COMMON)
-                0x00000000200145c8                . = ALIGN (0x4)
-                0x00000000200145c8                _ebss = .
-                0x00000000200145c8                __bss_end__ = _ebss
+                0x00000000200145c0                . = ALIGN (0x4)
+                0x00000000200145c0                _ebss = .
+                0x00000000200145c0                __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x00000000200145c8      0x600 load address 0x0000000008005e90
-                0x00000000200145c8                . = ALIGN (0x8)
-                0x00000000200145c8                PROVIDE (end = .)
+                0x00000000200145c0      0x600 load address 0x0000000008005dcc
+                0x00000000200145c0                . = ALIGN (0x8)
+                0x00000000200145c0                PROVIDE (end = .)
                 [!provide]                        PROVIDE (_end = .)
-                0x00000000200147c8                . = (. + _Min_Heap_Size)
- *fill*         0x00000000200145c8      0x200 
-                0x0000000020014bc8                . = (. + _Min_Stack_Size)
- *fill*         0x00000000200147c8      0x400 
-                0x0000000020014bc8                . = ALIGN (0x8)
+                0x00000000200147c0                . = (. + _Min_Heap_Size)
+ *fill*         0x00000000200145c0      0x200 
+                0x0000000020014bc0                . = (. + _Min_Stack_Size)
+ *fill*         0x00000000200147c0      0x400 
+                0x0000000020014bc0                . = ALIGN (0x8)
 
 /DISCARD/
  libc.a(*)
@@ -5532,55 +5380,53 @@ LOAD F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
  .ARM.attributes
                 0x00000000000003e7       0x34 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
  .ARM.attributes
-                0x000000000000041b       0x34 ./ThirdParty/SEGGER/Rec/segger_uart.o
+                0x000000000000041b       0x34 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
  .ARM.attributes
-                0x000000000000044f       0x34 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+                0x000000000000044f       0x20 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT_ASM_ARMv7M.o
  .ARM.attributes
-                0x0000000000000483       0x20 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT_ASM_ARMv7M.o
+                0x000000000000046f       0x34 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
  .ARM.attributes
-                0x00000000000004a3       0x34 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x00000000000004a3       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
  .ARM.attributes
-                0x00000000000004d7       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x00000000000004d7       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-snprintf.o)
  .ARM.attributes
-                0x000000000000050b       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-snprintf.o)
+                0x000000000000050b       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcmp.o)
  .ARM.attributes
-                0x000000000000053f       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcmp.o)
+                0x000000000000053f       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
  .ARM.attributes
-                0x0000000000000573       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+                0x0000000000000573       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
  .ARM.attributes
-                0x00000000000005a7       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+                0x00000000000005a7       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
  .ARM.attributes
-                0x00000000000005db       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-impure.o)
+                0x00000000000005db       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
  .ARM.attributes
-                0x000000000000060f       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+                0x000000000000060f       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
  .ARM.attributes
-                0x0000000000000643       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x0000000000000643       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
  .ARM.attributes
-                0x0000000000000677       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+                0x0000000000000677       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
  .ARM.attributes
-                0x00000000000006ab       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+                0x00000000000006ab       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
  .ARM.attributes
-                0x00000000000006df       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                0x00000000000006df       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
  .ARM.attributes
-                0x0000000000000713       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+                0x0000000000000713       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
  .ARM.attributes
-                0x0000000000000747       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+                0x0000000000000747       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
  .ARM.attributes
-                0x000000000000077b       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                0x000000000000077b       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memmove.o)
  .ARM.attributes
-                0x00000000000007af       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memmove.o)
+                0x00000000000007af       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
  .ARM.attributes
-                0x00000000000007e3       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+                0x00000000000007e3       0x1c F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memchr.o)
  .ARM.attributes
-                0x0000000000000817       0x1c F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memchr.o)
+                0x00000000000007ff       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reallocr.o)
  .ARM.attributes
-                0x0000000000000833       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reallocr.o)
+                0x0000000000000833       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-msizer.o)
  .ARM.attributes
-                0x0000000000000867       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-msizer.o)
+                0x0000000000000867       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
  .ARM.attributes
-                0x000000000000089b       0x34 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
- .ARM.attributes
-                0x00000000000008cf       0x1e F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x000000000000089b       0x1e F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/thumb/v7e-m+fp/hard/crtn.o
 OUTPUT(CreateTask.elf elf32-littlearm)
 LOAD linker stubs
 LOAD F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a
@@ -5608,11 +5454,10 @@ LOAD F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
  .comment       0x0000000000000043       0x44 ./ThirdParty/FreeRTOS/portable/MemMang/heap_4.o
  .comment       0x0000000000000043       0x44 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
  .comment       0x0000000000000043       0x44 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
- .comment       0x0000000000000043       0x44 ./ThirdParty/SEGGER/Rec/segger_uart.o
  .comment       0x0000000000000043       0x44 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
  .comment       0x0000000000000043       0x44 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
 
-.debug_info     0x0000000000000000    0x1389e
+.debug_info     0x0000000000000000    0x12f5d
  .debug_info    0x0000000000000000     0x1377 ./Core/Src/main.o
  .debug_info    0x0000000000001377      0x2e9 ./Core/Src/stm32g4xx_hal_msp.o
  .debug_info    0x0000000000001660      0xe78 ./Core/Src/stm32g4xx_hal_timebase_tim.o
@@ -5632,12 +5477,11 @@ LOAD F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
  .debug_info    0x000000000000dbec      0x4d5 ./ThirdParty/FreeRTOS/portable/MemMang/heap_4.o
  .debug_info    0x000000000000e0c1      0x173 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
  .debug_info    0x000000000000e234      0x411 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
- .debug_info    0x000000000000e645      0x939 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_info    0x000000000000ef7e     0x13d7 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
- .debug_info    0x0000000000010355       0x25 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT_ASM_ARMv7M.o
- .debug_info    0x000000000001037a     0x3524 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .debug_info    0x000000000000e645     0x13d7 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .debug_info    0x000000000000fa1c       0x25 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT_ASM_ARMv7M.o
+ .debug_info    0x000000000000fa41     0x351c ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
 
-.debug_abbrev   0x0000000000000000     0x2ecf
+.debug_abbrev   0x0000000000000000     0x2bff
  .debug_abbrev  0x0000000000000000      0x33d ./Core/Src/main.o
  .debug_abbrev  0x000000000000033d       0xec ./Core/Src/stm32g4xx_hal_msp.o
  .debug_abbrev  0x0000000000000429      0x223 ./Core/Src/stm32g4xx_hal_timebase_tim.o
@@ -5657,12 +5501,11 @@ LOAD F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
  .debug_abbrev  0x00000000000021bc      0x21e ./ThirdParty/FreeRTOS/portable/MemMang/heap_4.o
  .debug_abbrev  0x00000000000023da       0xdf ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
  .debug_abbrev  0x00000000000024b9      0x1a4 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
- .debug_abbrev  0x000000000000265d      0x2bd ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_abbrev  0x000000000000291a      0x258 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
- .debug_abbrev  0x0000000000002b72       0x14 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT_ASM_ARMv7M.o
- .debug_abbrev  0x0000000000002b86      0x349 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .debug_abbrev  0x000000000000265d      0x258 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .debug_abbrev  0x00000000000028b5       0x14 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT_ASM_ARMv7M.o
+ .debug_abbrev  0x00000000000028c9      0x336 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
 
-.debug_aranges  0x0000000000000000     0x13a8
+.debug_aranges  0x0000000000000000     0x1340
  .debug_aranges
                 0x0000000000000000       0x50 ./Core/Src/main.o
  .debug_aranges
@@ -5702,16 +5545,14 @@ LOAD F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
  .debug_aranges
                 0x0000000000000f20       0x48 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
  .debug_aranges
-                0x0000000000000f68       0x68 ./ThirdParty/SEGGER/Rec/segger_uart.o
+                0x0000000000000f68      0x138 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
  .debug_aranges
-                0x0000000000000fd0      0x138 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+                0x00000000000010a0       0x20 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT_ASM_ARMv7M.o
  .debug_aranges
-                0x0000000000001108       0x20 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT_ASM_ARMv7M.o
- .debug_aranges
-                0x0000000000001128      0x280 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x00000000000010c0      0x280 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
 
 .debug_rnglists
-                0x0000000000000000      0xf16
+                0x0000000000000000      0xecb
  .debug_rnglists
                 0x0000000000000000       0x3a ./Core/Src/main.o
  .debug_rnglists
@@ -5751,13 +5592,11 @@ LOAD F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
  .debug_rnglists
                 0x0000000000000b9e       0x36 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
  .debug_rnglists
-                0x0000000000000bd4       0x4b ./ThirdParty/SEGGER/Rec/segger_uart.o
+                0x0000000000000bd4       0xf5 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
  .debug_rnglists
-                0x0000000000000c1f       0xf5 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
- .debug_rnglists
-                0x0000000000000d14      0x202 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                0x0000000000000cc9      0x202 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
 
-.debug_macro    0x0000000000000000    0x281a5
+.debug_macro    0x0000000000000000    0x27cfe
  .debug_macro   0x0000000000000000      0x370 ./Core/Src/main.o
  .debug_macro   0x0000000000000370      0xaa8 ./Core/Src/main.o
  .debug_macro   0x0000000000000e18      0x155 ./Core/Src/main.o
@@ -5819,48 +5658,45 @@ LOAD F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
  .debug_macro   0x000000000002429d       0x4c ./Core/Src/main.o
  .debug_macro   0x00000000000242e9       0x46 ./Core/Src/main.o
  .debug_macro   0x000000000002432f       0x64 ./Core/Src/main.o
- .debug_macro   0x0000000000024393       0x16 ./Core/Src/main.o
- .debug_macro   0x00000000000243a9       0x49 ./Core/Src/main.o
- .debug_macro   0x00000000000243f2       0xbc ./Core/Src/main.o
- .debug_macro   0x00000000000244ae      0x204 ./Core/Src/main.o
- .debug_macro   0x00000000000246b2      0x450 ./Core/Src/main.o
- .debug_macro   0x0000000000024b02      0x15a ./Core/Src/main.o
- .debug_macro   0x0000000000024c5c       0xea ./Core/Src/main.o
- .debug_macro   0x0000000000024d46       0x1c ./Core/Src/main.o
- .debug_macro   0x0000000000024d62       0x26 ./Core/Src/main.o
- .debug_macro   0x0000000000024d88      0x3d0 ./Core/Src/main.o
- .debug_macro   0x0000000000025158       0xb5 ./Core/Src/main.o
- .debug_macro   0x000000000002520d      0x120 ./Core/Src/main.o
- .debug_macro   0x000000000002532d      0x27a ./Core/Src/stm32g4xx_hal_msp.o
- .debug_macro   0x00000000000255a7       0x58 ./Core/Src/stm32g4xx_hal_msp.o
- .debug_macro   0x00000000000255ff      0x1ba ./Core/Src/stm32g4xx_hal_timebase_tim.o
- .debug_macro   0x00000000000257b9      0x1d3 ./Core/Src/stm32g4xx_it.o
- .debug_macro   0x000000000002598c      0x1ba ./Core/Src/system_stm32g4xx.o
- .debug_macro   0x0000000000025b46      0x208 ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.o
- .debug_macro   0x0000000000025d4e      0x1ba ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.o
- .debug_macro   0x0000000000025f08      0x1c1 ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.o
- .debug_macro   0x00000000000260c9      0x1e4 ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.o
- .debug_macro   0x00000000000262ad      0x1fc ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.o
- .debug_macro   0x00000000000264a9      0x1c2 ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.o
- .debug_macro   0x000000000002666b      0x1c0 ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.o
- .debug_macro   0x000000000002682b      0x1f4 ./ThirdParty/FreeRTOS/list.o
- .debug_macro   0x0000000000026a1f      0x2e1 ./ThirdParty/FreeRTOS/tasks.o
- .debug_macro   0x0000000000026d00       0x10 ./ThirdParty/FreeRTOS/tasks.o
- .debug_macro   0x0000000000026d10      0x1f7 ./ThirdParty/FreeRTOS/portable/GCC/ARM_CM4F/port.o
- .debug_macro   0x0000000000026f07      0x20f ./ThirdParty/FreeRTOS/portable/MemMang/heap_4.o
- .debug_macro   0x0000000000027116      0x137 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
- .debug_macro   0x000000000002724d      0x203 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
- .debug_macro   0x0000000000027450      0x418 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000027868       0x3a ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x00000000000278a2      0x138 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x00000000000279da       0x56 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_macro   0x0000000000027a30      0x1bd ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
- .debug_macro   0x0000000000027bed       0x34 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
- .debug_macro   0x0000000000027c21      0x212 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
- .debug_macro   0x0000000000027e33      0x204 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
- .debug_macro   0x0000000000028037      0x16e ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .debug_macro   0x0000000000024393       0x10 ./Core/Src/main.o
+ .debug_macro   0x00000000000243a3       0x49 ./Core/Src/main.o
+ .debug_macro   0x00000000000243ec       0xc3 ./Core/Src/main.o
+ .debug_macro   0x00000000000244af      0x204 ./Core/Src/main.o
+ .debug_macro   0x00000000000246b3      0x450 ./Core/Src/main.o
+ .debug_macro   0x0000000000024b03      0x15a ./Core/Src/main.o
+ .debug_macro   0x0000000000024c5d       0xea ./Core/Src/main.o
+ .debug_macro   0x0000000000024d47       0x1c ./Core/Src/main.o
+ .debug_macro   0x0000000000024d63       0x26 ./Core/Src/main.o
+ .debug_macro   0x0000000000024d89      0x3d0 ./Core/Src/main.o
+ .debug_macro   0x0000000000025159       0xb5 ./Core/Src/main.o
+ .debug_macro   0x000000000002520e      0x120 ./Core/Src/main.o
+ .debug_macro   0x000000000002532e      0x27a ./Core/Src/stm32g4xx_hal_msp.o
+ .debug_macro   0x00000000000255a8       0x58 ./Core/Src/stm32g4xx_hal_msp.o
+ .debug_macro   0x0000000000025600      0x1ba ./Core/Src/stm32g4xx_hal_timebase_tim.o
+ .debug_macro   0x00000000000257ba      0x1d3 ./Core/Src/stm32g4xx_it.o
+ .debug_macro   0x000000000002598d      0x1ba ./Core/Src/system_stm32g4xx.o
+ .debug_macro   0x0000000000025b47      0x208 ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.o
+ .debug_macro   0x0000000000025d4f      0x1ba ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.o
+ .debug_macro   0x0000000000025f09      0x1c1 ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.o
+ .debug_macro   0x00000000000260ca      0x1e4 ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.o
+ .debug_macro   0x00000000000262ae      0x1fc ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.o
+ .debug_macro   0x00000000000264aa      0x1c2 ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.o
+ .debug_macro   0x000000000002666c      0x1c0 ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.o
+ .debug_macro   0x000000000002682c      0x1f4 ./ThirdParty/FreeRTOS/list.o
+ .debug_macro   0x0000000000026a20      0x2e1 ./ThirdParty/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000026d01       0x10 ./ThirdParty/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000026d11      0x1f7 ./ThirdParty/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x0000000000026f08      0x20f ./ThirdParty/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000027117      0x137 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
+ .debug_macro   0x000000000002724e      0x203 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+ .debug_macro   0x0000000000027451      0x1bd ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .debug_macro   0x000000000002760e       0x34 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .debug_macro   0x0000000000027642      0x138 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .debug_macro   0x000000000002777a      0x212 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .debug_macro   0x000000000002798c      0x204 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .debug_macro   0x0000000000027b90      0x16e ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
 
-.debug_line     0x0000000000000000    0x15c05
+.debug_line     0x0000000000000000    0x15000
  .debug_line    0x0000000000000000      0xd27 ./Core/Src/main.o
  .debug_line    0x0000000000000d27      0xa65 ./Core/Src/stm32g4xx_hal_msp.o
  .debug_line    0x000000000000178c      0x78d ./Core/Src/stm32g4xx_hal_timebase_tim.o
@@ -5880,60 +5716,57 @@ LOAD F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
  .debug_line    0x000000000001025c      0xbfa ./ThirdParty/FreeRTOS/portable/MemMang/heap_4.o
  .debug_line    0x0000000000010e56      0x78e ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
  .debug_line    0x00000000000115e4      0xa87 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
- .debug_line    0x000000000001206b      0xbf6 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_line    0x0000000000012c61      0xf1d ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
- .debug_line    0x0000000000013b7e       0x86 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT_ASM_ARMv7M.o
- .debug_line    0x0000000000013c04     0x2001 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .debug_line    0x000000000001206b      0xf1d ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .debug_line    0x0000000000012f88       0x86 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT_ASM_ARMv7M.o
+ .debug_line    0x000000000001300e     0x1ff2 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
 
-.debug_str      0x0000000000000000   0x102978
- .debug_str     0x0000000000000000    0xfa574 ./Core/Src/main.o
-                                      0xfa97e (size before relaxing)
- .debug_str     0x00000000000fa574       0x61 ./Core/Src/stm32g4xx_hal_msp.o
-                                      0xf484f (size before relaxing)
- .debug_str     0x00000000000fa5d5       0xf7 ./Core/Src/stm32g4xx_hal_timebase_tim.o
+.debug_str      0x0000000000000000   0x1022af
+ .debug_str     0x0000000000000000    0xfa56a ./Core/Src/main.o
+                                      0xfa968 (size before relaxing)
+ .debug_str     0x00000000000fa56a       0x61 ./Core/Src/stm32g4xx_hal_msp.o
+                                      0xf4839 (size before relaxing)
+ .debug_str     0x00000000000fa5cb       0xf7 ./Core/Src/stm32g4xx_hal_timebase_tim.o
                                       0xee36c (size before relaxing)
- .debug_str     0x00000000000fa6cc       0xe7 ./Core/Src/stm32g4xx_it.o
+ .debug_str     0x00000000000fa6c2       0xe7 ./Core/Src/stm32g4xx_it.o
                                       0xedca0 (size before relaxing)
- .debug_str     0x00000000000fa7b3       0xdb ./Core/Src/system_stm32g4xx.o
+ .debug_str     0x00000000000fa7a9       0xdb ./Core/Src/system_stm32g4xx.o
                                       0xed668 (size before relaxing)
- .debug_str     0x00000000000fa88e       0x34 ./Core/Startup/startup_stm32g474retx.o
+ .debug_str     0x00000000000fa884       0x34 ./Core/Startup/startup_stm32g474retx.o
                                          0x7a (size before relaxing)
- .debug_str     0x00000000000fa8c2      0x582 ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.o
+ .debug_str     0x00000000000fa8b8      0x582 ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal.o
                                       0xee353 (size before relaxing)
- .debug_str     0x00000000000fae44      0x331 ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.o
+ .debug_str     0x00000000000fae3a      0x331 ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_cortex.o
                                       0xedffe (size before relaxing)
- .debug_str     0x00000000000fb175      0x11f ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.o
+ .debug_str     0x00000000000fb16b      0x11f ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_gpio.o
                                       0xed7f3 (size before relaxing)
- .debug_str     0x00000000000fb294      0x4a5 ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.o
+ .debug_str     0x00000000000fb28a      0x4a5 ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_pwr_ex.o
                                       0xedb56 (size before relaxing)
- .debug_str     0x00000000000fb739      0x4d0 ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.o
+ .debug_str     0x00000000000fb72f      0x4d0 ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_rcc.o
                                       0xedd87 (size before relaxing)
- .debug_str     0x00000000000fbc09      0xf98 ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.o
+ .debug_str     0x00000000000fbbff      0xf98 ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim.o
                                       0xeeb56 (size before relaxing)
- .debug_str     0x00000000000fcba1      0x995 ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.o
+ .debug_str     0x00000000000fcb97      0x995 ./Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_tim_ex.o
                                       0xee7da (size before relaxing)
- .debug_str     0x00000000000fd536      0x265 ./ThirdParty/FreeRTOS/list.o
-                                       0xec12 (size before relaxing)
- .debug_str     0x00000000000fd79b     0x1fca ./ThirdParty/FreeRTOS/tasks.o
-                                      0x11f17 (size before relaxing)
- .debug_str     0x00000000000ff765      0x7ca ./ThirdParty/FreeRTOS/portable/GCC/ARM_CM4F/port.o
-                                       0xd44d (size before relaxing)
- .debug_str     0x00000000000fff2f      0x319 ./ThirdParty/FreeRTOS/portable/MemMang/heap_4.o
-                                      0x100db (size before relaxing)
- .debug_str     0x0000000000100248      0x1c8 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
-                                       0xb2dd (size before relaxing)
- .debug_str     0x0000000000100410       0xf6 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
-                                       0xfe53 (size before relaxing)
- .debug_str     0x0000000000100506      0xff8 ./ThirdParty/SEGGER/Rec/segger_uart.o
-                                      0xf3757 (size before relaxing)
- .debug_str     0x00000000001014fe      0x735 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .debug_str     0x00000000000fd52c      0x265 ./ThirdParty/FreeRTOS/list.o
+                                       0xebfc (size before relaxing)
+ .debug_str     0x00000000000fd791     0x1fca ./ThirdParty/FreeRTOS/tasks.o
+                                      0x11f01 (size before relaxing)
+ .debug_str     0x00000000000ff75b      0x7ca ./ThirdParty/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                                       0xd437 (size before relaxing)
+ .debug_str     0x00000000000fff25      0x319 ./ThirdParty/FreeRTOS/portable/MemMang/heap_4.o
+                                      0x100c5 (size before relaxing)
+ .debug_str     0x000000000010023e      0x1c8 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
+                                       0xb2c7 (size before relaxing)
+ .debug_str     0x0000000000100406       0xf6 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
+                                       0xfe3d (size before relaxing)
+ .debug_str     0x00000000001004fc     0x1055 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
                                        0x7ba4 (size before relaxing)
- .debug_str     0x0000000000101c33       0x34 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT_ASM_ARMv7M.o
+ .debug_str     0x0000000000101551       0x34 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT_ASM_ARMv7M.o
                                          0x86 (size before relaxing)
- .debug_str     0x0000000000101c67      0xd11 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
-                                       0x9bf8 (size before relaxing)
+ .debug_str     0x0000000000101585      0xd2a ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+                                       0x9bc6 (size before relaxing)
 
-.debug_frame    0x0000000000000000     0x5710
+.debug_frame    0x0000000000000000     0x5598
  .debug_frame   0x0000000000000000       0xf4 ./Core/Src/main.o
  .debug_frame   0x00000000000000f4       0x34 ./Core/Src/stm32g4xx_hal_msp.o
  .debug_frame   0x0000000000000128       0x74 ./Core/Src/stm32g4xx_hal_timebase_tim.o
@@ -5952,27 +5785,26 @@ LOAD F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.extern
  .debug_frame   0x0000000000003c78      0x12c ./ThirdParty/FreeRTOS/portable/MemMang/heap_4.o
  .debug_frame   0x0000000000003da4       0x48 ./ThirdParty/SEGGER/Config/SEGGER_SYSVIEW_Config_FreeRTOS.o
  .debug_frame   0x0000000000003dec      0x104 ./ThirdParty/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.o
- .debug_frame   0x0000000000003ef0      0x178 ./ThirdParty/SEGGER/Rec/segger_uart.o
- .debug_frame   0x0000000000004068      0x530 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
- .debug_frame   0x0000000000004598      0xbc4 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
- .debug_frame   0x000000000000515c      0x13c F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
- .debug_frame   0x0000000000005298       0x7c F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-snprintf.o)
- .debug_frame   0x0000000000005314       0x28 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcmp.o)
- .debug_frame   0x000000000000533c       0x20 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
- .debug_frame   0x000000000000535c       0x38 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
- .debug_frame   0x0000000000005394       0x2c F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
- .debug_frame   0x00000000000053c0       0xb0 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
- .debug_frame   0x0000000000005470       0x28 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
- .debug_frame   0x0000000000005498       0x38 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
- .debug_frame   0x00000000000054d0       0x50 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
- .debug_frame   0x0000000000005520       0x30 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
- .debug_frame   0x0000000000005550       0x90 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
- .debug_frame   0x00000000000055e0       0x60 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
- .debug_frame   0x0000000000005640       0x28 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memmove.o)
- .debug_frame   0x0000000000005668       0x2c F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
- .debug_frame   0x0000000000005694       0x3c F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reallocr.o)
- .debug_frame   0x00000000000056d0       0x20 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-msizer.o)
- .debug_frame   0x00000000000056f0       0x20 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
+ .debug_frame   0x0000000000003ef0      0x530 ./ThirdParty/SEGGER/SEGGER/SEGGER_RTT.o
+ .debug_frame   0x0000000000004420      0xbc4 ./ThirdParty/SEGGER/SEGGER/SEGGER_SYSVIEW.o
+ .debug_frame   0x0000000000004fe4      0x13c F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .debug_frame   0x0000000000005120       0x7c F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-snprintf.o)
+ .debug_frame   0x000000000000519c       0x28 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcmp.o)
+ .debug_frame   0x00000000000051c4       0x20 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memset.o)
+ .debug_frame   0x00000000000051e4       0x38 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reent.o)
+ .debug_frame   0x000000000000521c       0x2c F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-init.o)
+ .debug_frame   0x0000000000005248       0xb0 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-lock.o)
+ .debug_frame   0x00000000000052f8       0x28 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .debug_frame   0x0000000000005320       0x38 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-freer.o)
+ .debug_frame   0x0000000000005358       0x50 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .debug_frame   0x00000000000053a8       0x30 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .debug_frame   0x00000000000053d8       0x90 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+ .debug_frame   0x0000000000005468       0x60 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .debug_frame   0x00000000000054c8       0x28 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-memmove.o)
+ .debug_frame   0x00000000000054f0       0x2c F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .debug_frame   0x000000000000551c       0x3c F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-reallocr.o)
+ .debug_frame   0x0000000000005558       0x20 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(libc_a-msizer.o)
+ .debug_frame   0x0000000000005578       0x20 F:/STM32CubeIDE_1.13.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(sbrk.o)
 
 .debug_line_str
                 0x0000000000000000       0xa2

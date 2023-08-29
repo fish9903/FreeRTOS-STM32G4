@@ -229,32 +229,51 @@ static void MX_GPIO_Init(void)
 /* USER CODE BEGIN 4 */
 static void led_green_handler(void* parameters)
 {
+	TickType_t last_wakeup_time;
+
+	last_wakeup_time = xTaskGetTickCount();
+
 	while(1)
 	{
 		SEGGER_SYSVIEW_PrintfTarget("Toggling green LED");
 		//HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_5);
-		//HAL_Delay(10); // consumes the CPU --> continuous task <--> periodic task, Aperidoic task
-		taskYIELD();
+		//HAL_Delay(1000); // consumes the CPU --> continuous task <--> periodic task, Aperidoic task
+		//taskYIELD();
+
+		//vTaskDelay(pdMS_TO_TICKS(2));
+		vTaskDelayUntil(&last_wakeup_time, pdMS_TO_TICKS(2));
 	}
 }
 
 static void led_red_handler(void* parameters)
 {
+	TickType_t last_wakeup_time;
+
+	last_wakeup_time = xTaskGetTickCount();
+
 	while(1)
 	{
 		SEGGER_SYSVIEW_PrintfTarget("Toggling red LED");
-		//HAL_Delay(800);
-		taskYIELD();
+		//HAL_Delay(1);
+		//taskYIELD();
+		//vTaskDelay(pdMS_TO_TICKS(2));
+		vTaskDelayUntil(&last_wakeup_time, pdMS_TO_TICKS(2));
 	}
 }
 
 static void led_orange_handler(void* parameters)
 {
+	TickType_t last_wakeup_time;
+
+	last_wakeup_time = xTaskGetTickCount();
+
 	while(1)
 	{
 		SEGGER_SYSVIEW_PrintfTarget("Toggling orange LED");
 		//HAL_Delay(400);
-		taskYIELD();
+		//taskYIELD();
+		//vTaskDelay(pdMS_TO_TICKS(2));
+		vTaskDelayUntil(&last_wakeup_time, pdMS_TO_TICKS(2));
 	}
 }
 /* USER CODE END 4 */
