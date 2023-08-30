@@ -9,7 +9,6 @@ Understand RTOS concept and operation using STM32 board and freeRTOS
   - Scheduling(cooperative, preemptive)
   - taskYield()
   - xTaskCreate()
-  - Visual material using SystemView-SEGGER
  
 + LED_Tasks
   - While based loop example
