@@ -101,9 +101,6 @@ int main(void)
   // Enable the cycle counter
   DWT_CTRL |= ( 1 << 0 );
 
-  SEGGER_SYSVIEW_Conf();
-  SEGGER_SYSVIEW_Start();
-
   status = xTaskCreate(task1_handler, "Task-1", 200, "Hello, world from Task-1", 2, &task1_handle);
 
   configASSERT(status == pdPASS);
@@ -227,27 +224,21 @@ static void MX_GPIO_Init(void)
 }
 
 /* USER CODE BEGIN 4 */
-
+// ITM
 static void task1_handler(void* parameters)
 {
-	char msg[100];
 	while(1)
 	{
-		//printf("%s\n", (char*)parameters);
-		snprintf(msg, 100, "%s\n", (char*)parameters);
-		SEGGER_SYSVIEW_PrintfTarget(msg);
+		printf("%s\n", (char*)parameters);
 		taskYIELD();
 	}
 }
 
 static void task2_handler(void* parameters)
 {
-	char msg[100];
 	while(1)
 	{
-		//printf("%s\n", (char*)parameters);
-		snprintf(msg, 100, "%s\n", (char*)parameters);
-		SEGGER_SYSVIEW_PrintfTarget(msg);
+		printf("%s\n", (char*)parameters);
 		taskYIELD();
 	}
 }
