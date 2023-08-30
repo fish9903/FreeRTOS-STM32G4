@@ -5,8 +5,24 @@ Understand RTOS concept and operation using STM32 board and freeRTOS
 
 ## 2. Contents
 + CreateTask
-  - Create tasks
-  - ...
+  - Task handler implementation
+  - Scheduling(cooperative, preemptive)
+  - taskYield()
+  - xTaskCreate()
+  - Visual material using SystemView-SEGGER
+ 
++ LED_Tasks
+  - While based loop example
+  - Visual material using SystemView-SEGGER
+ 
++ LED Tasks2
+  - Task delay example
+  - vTaskDelay()
+  - vTaskDelayUntil()
+  - Visual material using SystemView-SEGGER
+ 
++ common
+  - ThirdParty(FreeRTOS, SEGGER) files
 
 ## 3. Board and Software
 + STM32G474 (NUCLEO-G474RE)
