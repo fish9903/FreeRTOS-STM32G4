@@ -11,7 +11,7 @@ Understand RTOS concept and operation using STM32 board and freeRTOS
   - xTaskCreate()
  
 + LED_Tasks
-  - While based loop example
+  - While based loop example(HAL_Delay())
   - Visual material using SystemView-SEGGER
  
 + LED Tasks2
