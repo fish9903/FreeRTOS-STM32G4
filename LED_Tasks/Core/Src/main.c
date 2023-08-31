@@ -233,7 +233,8 @@ static void led_green_handler(void* parameters)
 	{
 		SEGGER_SYSVIEW_PrintfTarget("Toggling green LED");
 		//HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_5);
-		HAL_Delay(1); // consumes the CPU --> continuous task <--> periodic task, Aperidoic task
+		HAL_Delay(10); // consumes the CPU --> continuous task <--> periodic task, Aperidoic task
+		taskYIELD();
 	}
 }
 
@@ -242,7 +243,8 @@ static void led_red_handler(void* parameters)
 	while(1)
 	{
 		SEGGER_SYSVIEW_PrintfTarget("Toggling red LED");
-		HAL_Delay(1);
+		HAL_Delay(10);
+		taskYIELD();
 	}
 }
 
@@ -251,7 +253,8 @@ static void led_orange_handler(void* parameters)
 	while(1)
 	{
 		SEGGER_SYSVIEW_PrintfTarget("Toggling orange LED");
-		HAL_Delay(1);
+		HAL_Delay(10);
+		taskYIELD();
 	}
 }
 /* USER CODE END 4 */
