@@ -1,4 +1,9 @@
 # LED Tasks 2 #
+
+[FreeRTOS API - vTaskDelay()](https://www.freertos.org/a00127.html)
+
+[FreeRTOS API - vTaskDelayUntil()](https://www.freertos.org/vtaskdelayuntil.html)
+
 ## 1. Example
 - Create 3 tasks with same priorities(print toggling green, red, orange LED)
 - Set the delay for each task(vTaskDelay(2), vTaskDelayUntil(2) --> 2ms)
