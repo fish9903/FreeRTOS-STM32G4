@@ -1,7 +1,7 @@
 # LED Tasks #
 ## 1. Example
 - Create 3 tasks with same priorities(print toggling green, red, orange LED)
-- Set the delay for each task(HAL_Delay(1) --> 1ms)
+- Set the delay for each task(HAL_Delay(10) --> 10ms)
 - Run schuduler
 - Analyzing results through single-shot recording using SystemView
 
