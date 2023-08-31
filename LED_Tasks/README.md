@@ -12,13 +12,13 @@
 
 ### Set the delay for each task
 
-![image](https://github.com/fish9903/FreeRTOS-STM32G4/assets/68493358/cc706ef2-3801-40ed-b5b0-1bec7daa58cb)
+![image](https://github.com/fish9903/FreeRTOS-STM32G4/assets/68493358/28ffb857-af00-48f9-a739-99eeeba75d0a)
 
 ### Single-shot recording
 
-![image](https://github.com/fish9903/FreeRTOS-STM32G4/assets/68493358/28ffb857-af00-48f9-a739-99eeeba75d0a)
+![image](https://github.com/fish9903/FreeRTOS-STM32G4/assets/68493358/f277ce47-863a-4cb3-abdd-b7b7017d9802)
 
 
 ## 3. Detailed explanation
-![image](https://github.com/fish9903/FreeRTOS-STM32G4/assets/68493358/f277ce47-863a-4cb3-abdd-b7b7017d9802)
+[Blog Link](https://fish9903.tistory.com/entry/FreeRTOS-%EB%93%A4%EC%97%AC%EB%8B%A4%EB%B3%B4%EA%B8%B04-Task1delay)
 
