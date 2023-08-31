@@ -16,7 +16,9 @@
 
 ### Single-shot recording
 
-![image](https://github.com/fish9903/FreeRTOS-STM32G4/assets/68493358/08ae6e0b-6697-4108-ac7d-63557840fddd)
+![image](https://github.com/fish9903/FreeRTOS-STM32G4/assets/68493358/28ffb857-af00-48f9-a739-99eeeba75d0a)
+
 
 ## 3. Detailed explanation
-[Blog Link](https://fish9903.tistory.com/entry/FreeRTOS-%EB%93%A4%EC%97%AC%EB%8B%A4%EB%B3%B4%EA%B8%B04-Task1delay)
+![image](https://github.com/fish9903/FreeRTOS-STM32G4/assets/68493358/f277ce47-863a-4cb3-abdd-b7b7017d9802)
+
