@@ -12,7 +12,7 @@
 - Press button --> on/off
 
 ## 2. Result
-### Preemptive scheduling setting
+
 ![ezgif com-video-to-gif (2)-min (1)](https://github.com/fish9903/FreeRTOS-STM32G4/assets/68493358/c4cd8c36-6834-441b-8a57-9c698eb417aa)
 
 ## 3. Detailed explanation
