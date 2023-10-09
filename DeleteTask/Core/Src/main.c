@@ -109,7 +109,6 @@ int main(void)
 
   status = xTaskCreate(led_green_handler, "LED_green_task", 200, NULL, 3, &ledg_task_handle);
   configASSERT(status == pdPASS);
-//  next_task_handle = ledg_task_handle;
 
   status = xTaskCreate(button_handler, "Button_task", 200, NULL, 4, &btn_task_handle);
   configASSERT(status == pdPASS);
