@@ -1,4 +1,4 @@
-# Create Task API #
+# API #
 [FreeRTOS API Reference - xTaskNotify](https://www.freertos.org/xTaskNotify.html)<br>
 [FreeRTOS API Reference - xTaskNotifyWait](https://www.freertos.org/xTaskNotifyWait.html)
 <br>
