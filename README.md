@@ -7,18 +7,21 @@ Understand RTOS concept and operation using STM32 board and freeRTOS
 + CreateTask
   - Task handler implementation
   - Scheduling(cooperative, preemptive)
-  - taskYield()
-  - xTaskCreate()
+  - taskYield(), xTaskCreate()
  
 + LED_Tasks
   - While based loop example(HAL_Delay())
   - Visual material using SystemView-SEGGER
  
-+ LED Tasks2
++ LED_Tasks2
   - Task delay example
-  - vTaskDelay()
-  - vTaskDelayUntil()
+  - vTaskDelay(), vTaskDelayUntil()
   - Visual material using SystemView-SEGGER
+
++ DetleTask
+  - Task delete, suspend, notify example
+  - vTaskDelete(), vTaskSuspend(), xTaskNotify(), xTaskNotifyWait()
+  - LED toggle example with button
  
 + common
   - ThirdParty(FreeRTOS, SEGGER) files
